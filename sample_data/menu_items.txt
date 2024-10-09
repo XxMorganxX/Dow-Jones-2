@@ -1,0 +1,10 @@
+Coffee: 2,6
+Tea: 1.50,5
+Smoothie: 4 , 9
+Lemonade: 2 , 5
+Beer: 3 , 8
+Wine: 5 , 15
+Cocktail: 8 , 20
+Juice: 3 , 7
+Milkshake: 4 , 10
+Soda: 1 , 4
