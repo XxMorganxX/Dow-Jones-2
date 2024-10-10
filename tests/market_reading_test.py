@@ -9,5 +9,3 @@ from backend.market import Market
 menu_items_path = "../sample_data/menu_items.txt"
 
 test_market = Market()
-
-test_market.read_drink_options(menu_items_path)
