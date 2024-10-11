@@ -1,0 +1,494 @@
+{
+    "-1": [
+        {
+            "item": "Coffee",
+            "id": 0,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 4.0,
+            "name": "Market"
+        },
+        {
+            "item": "Tea",
+            "id": 1,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 3.25,
+            "name": "Market"
+        },
+        {
+            "item": "Smoothie",
+            "id": 2,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 6.5,
+            "name": "Market"
+        },
+        {
+            "item": "Lemonade",
+            "id": 3,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 3.5,
+            "name": "Market"
+        },
+        {
+            "item": "Beer",
+            "id": 4,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 5.5,
+            "name": "Market"
+        },
+        {
+            "item": "Wine",
+            "id": 5,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 10.0,
+            "name": "Market"
+        },
+        {
+            "item": "Cocktail",
+            "id": 6,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 14.0,
+            "name": "Market"
+        },
+        {
+            "item": "Juice",
+            "id": 7,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 5.0,
+            "name": "Market"
+        },
+        {
+            "item": "Milkshake",
+            "id": 8,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 7.0,
+            "name": "Market"
+        },
+        {
+            "item": "Soda",
+            "id": 9,
+            "timestamp": "20:26:47 2024-10-10",
+            "successfully_paid": true,
+            "price": 2.5,
+            "name": "Market"
+        }
+    ],
+    "0": [
+        {
+            "item": "Juice",
+            "id": 33005,
+            "timestamp": "20:28:19 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.39636892380255",
+            "name": "Will"
+        },
+        {
+            "item": "Milkshake",
+            "id": 93062,
+            "timestamp": "20:28:23 2024-10-10",
+            "successfully_paid": "True",
+            "price": "8.39588277853026",
+            "name": "Morgan"
+        },
+        {
+            "item": "Smoothie",
+            "id": 85428,
+            "timestamp": "20:28:27 2024-10-10",
+            "successfully_paid": "True",
+            "price": "5.299290949624458",
+            "name": "Spencer"
+        },
+        {
+            "item": "Tea",
+            "id": 62461,
+            "timestamp": "20:28:31 2024-10-10",
+            "successfully_paid": "True",
+            "price": "3.9246621192878597",
+            "name": "Will"
+        },
+        {
+            "item": "Smoothie",
+            "id": 91669,
+            "timestamp": "20:28:35 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.656965517681242",
+            "name": "Will"
+        },
+        {
+            "item": "Cocktail",
+            "id": 97372,
+            "timestamp": "20:28:39 2024-10-10",
+            "successfully_paid": "True",
+            "price": "18.354836940129744",
+            "name": "Will"
+        },
+        {
+            "item": "Milkshake",
+            "id": 29256,
+            "timestamp": "20:28:43 2024-10-10",
+            "successfully_paid": "True",
+            "price": "9.089649754328644",
+            "name": "Spencer"
+        },
+        {
+            "item": "Smoothie",
+            "id": 70443,
+            "timestamp": "20:28:47 2024-10-10",
+            "successfully_paid": "True",
+            "price": "7.932258510832165",
+            "name": "Will"
+        },
+        {
+            "item": "Smoothie",
+            "id": 78142,
+            "timestamp": "20:28:51 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.935311312577893",
+            "name": "Morgan"
+        },
+        {
+            "item": "Cocktail",
+            "id": 15828,
+            "timestamp": "20:28:55 2024-10-10",
+            "successfully_paid": "True",
+            "price": "14.711547977713412",
+            "name": "Spencer"
+        }
+    ],
+    "1": [
+        {
+            "item": "Soda",
+            "id": 71647,
+            "timestamp": "20:29:00 2024-10-10",
+            "successfully_paid": "True",
+            "price": "2.6737285474933357",
+            "name": "Morgan"
+        },
+        {
+            "item": "Smoothie",
+            "id": 64634,
+            "timestamp": "20:29:04 2024-10-10",
+            "successfully_paid": "True",
+            "price": "7.3282910785334465",
+            "name": "Spencer"
+        },
+        {
+            "item": "Juice",
+            "id": 76586,
+            "timestamp": "20:29:08 2024-10-10",
+            "successfully_paid": "True",
+            "price": "5.586771635326052",
+            "name": "Spencer"
+        },
+        {
+            "item": "Tea",
+            "id": 92703,
+            "timestamp": "20:29:12 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.135979819699024",
+            "name": "Morgan"
+        },
+        {
+            "item": "Wine",
+            "id": 36558,
+            "timestamp": "20:29:16 2024-10-10",
+            "successfully_paid": "True",
+            "price": "12.9144325028678",
+            "name": "Will"
+        },
+        {
+            "item": "Cocktail",
+            "id": 52924,
+            "timestamp": "20:29:20 2024-10-10",
+            "successfully_paid": "True",
+            "price": "18.35864247167384",
+            "name": "Will"
+        },
+        {
+            "item": "Lemonade",
+            "id": 40183,
+            "timestamp": "20:29:24 2024-10-10",
+            "successfully_paid": "True",
+            "price": "3.431627233960264",
+            "name": "Morgan"
+        },
+        {
+            "item": "Soda",
+            "id": 59480,
+            "timestamp": "20:29:28 2024-10-10",
+            "successfully_paid": "True",
+            "price": "2.136797612514727",
+            "name": "Will"
+        },
+        {
+            "item": "Smoothie",
+            "id": 95476,
+            "timestamp": "20:29:32 2024-10-10",
+            "successfully_paid": "True",
+            "price": "7.094929075653819",
+            "name": "Morgan"
+        },
+        {
+            "item": "Wine",
+            "id": 91568,
+            "timestamp": "20:29:36 2024-10-10",
+            "successfully_paid": "True",
+            "price": "10.756956353928734",
+            "name": "Will"
+        }
+    ],
+    "2": [
+        {
+            "item": "Smoothie",
+            "id": 60279,
+            "timestamp": "20:29:40 2024-10-10",
+            "successfully_paid": "True",
+            "price": "7.0188950328192785",
+            "name": "Spencer"
+        },
+        {
+            "item": "Soda",
+            "id": 26887,
+            "timestamp": "20:29:44 2024-10-10",
+            "successfully_paid": "True",
+            "price": "2.2532047732230267",
+            "name": "Spencer"
+        },
+        {
+            "item": "Beer",
+            "id": 88879,
+            "timestamp": "20:29:48 2024-10-10",
+            "successfully_paid": "True",
+            "price": "6.511018872139057",
+            "name": "Morgan"
+        },
+        {
+            "item": "Juice",
+            "id": 14632,
+            "timestamp": "20:29:52 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.375808351911327",
+            "name": "Spencer"
+        },
+        {
+            "item": "Coffee",
+            "id": 44086,
+            "timestamp": "20:29:56 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.774161411975158",
+            "name": "Morgan"
+        },
+        {
+            "item": "Beer",
+            "id": 15570,
+            "timestamp": "20:30:00 2024-10-10",
+            "successfully_paid": "True",
+            "price": "7.384107267887183",
+            "name": "Spencer"
+        },
+        {
+            "item": "Tea",
+            "id": 97648,
+            "timestamp": "20:30:04 2024-10-10",
+            "successfully_paid": "True",
+            "price": "2.716588978597331",
+            "name": "Spencer"
+        },
+        {
+            "item": "Wine",
+            "id": 26195,
+            "timestamp": "20:30:08 2024-10-10",
+            "successfully_paid": "True",
+            "price": "13.36165720864132",
+            "name": "Morgan"
+        },
+        {
+            "item": "Wine",
+            "id": 94951,
+            "timestamp": "20:30:12 2024-10-10",
+            "successfully_paid": "True",
+            "price": "8.786021355014954",
+            "name": "Morgan"
+        },
+        {
+            "item": "Smoothie",
+            "id": 63584,
+            "timestamp": "20:30:16 2024-10-10",
+            "successfully_paid": "True",
+            "price": "5.939675032586596",
+            "name": "Will"
+        }
+    ],
+    "3": [
+        {
+            "item": "Tea",
+            "id": 71948,
+            "timestamp": "20:30:20 2024-10-10",
+            "successfully_paid": "True",
+            "price": "1.8000010019093535",
+            "name": "Morgan"
+        },
+        {
+            "item": "Soda",
+            "id": 69927,
+            "timestamp": "20:30:24 2024-10-10",
+            "successfully_paid": "True",
+            "price": "3.7496402167770997",
+            "name": "Morgan"
+        },
+        {
+            "item": "Milkshake",
+            "id": 32866,
+            "timestamp": "20:30:28 2024-10-10",
+            "successfully_paid": "True",
+            "price": "6.618339951980047",
+            "name": "Will"
+        },
+        {
+            "item": "Tea",
+            "id": 50160,
+            "timestamp": "20:30:32 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.458579839541187",
+            "name": "Morgan"
+        },
+        {
+            "item": "Soda",
+            "id": 53417,
+            "timestamp": "20:30:36 2024-10-10",
+            "successfully_paid": "True",
+            "price": "3.033435102950352",
+            "name": "Spencer"
+        },
+        {
+            "item": "Wine",
+            "id": 59355,
+            "timestamp": "20:30:41 2024-10-10",
+            "successfully_paid": "True",
+            "price": "10.055842166448862",
+            "name": "Spencer"
+        },
+        {
+            "item": "Coffee",
+            "id": 89201,
+            "timestamp": "20:30:45 2024-10-10",
+            "successfully_paid": "True",
+            "price": "5.798097783745998",
+            "name": "Will"
+        },
+        {
+            "item": "Beer",
+            "id": 60194,
+            "timestamp": "20:30:49 2024-10-10",
+            "successfully_paid": "True",
+            "price": "7.788940530240781",
+            "name": "Spencer"
+        },
+        {
+            "item": "Soda",
+            "id": 93100,
+            "timestamp": "20:30:53 2024-10-10",
+            "successfully_paid": "True",
+            "price": "1.7748772400191348",
+            "name": "Morgan"
+        },
+        {
+            "item": "Juice",
+            "id": 75838,
+            "timestamp": "20:30:57 2024-10-10",
+            "successfully_paid": "True",
+            "price": "3.227095013634388",
+            "name": "Spencer"
+        }
+    ],
+    "4": [
+        {
+            "item": "Juice",
+            "id": 99955,
+            "timestamp": "20:31:01 2024-10-10",
+            "successfully_paid": "True",
+            "price": "4.5819602572789115",
+            "name": "Morgan"
+        },
+        {
+            "item": "Milkshake",
+            "id": 80891,
+            "timestamp": "20:31:05 2024-10-10",
+            "successfully_paid": "True",
+            "price": "8.275309752616582",
+            "name": "Morgan"
+        },
+        {
+            "item": "Cocktail",
+            "id": 42316,
+            "timestamp": "20:31:09 2024-10-10",
+            "successfully_paid": "True",
+            "price": "15.578236110813512",
+            "name": "Morgan"
+        },
+        {
+            "item": "Soda",
+            "id": 39318,
+            "timestamp": "20:31:13 2024-10-10",
+            "successfully_paid": "True",
+            "price": "2.727469185628736",
+            "name": "Will"
+        },
+        {
+            "item": "Soda",
+            "id": 98579,
+            "timestamp": "20:31:17 2024-10-10",
+            "successfully_paid": "True",
+            "price": "1.4097413456747327",
+            "name": "Will"
+        },
+        {
+            "item": "Lemonade",
+            "id": 16127,
+            "timestamp": "20:31:21 2024-10-10",
+            "successfully_paid": "True",
+            "price": "3.3008717083647237",
+            "name": "Will"
+        },
+        {
+            "item": "Cocktail",
+            "id": 50892,
+            "timestamp": "20:31:25 2024-10-10",
+            "successfully_paid": "True",
+            "price": "19.16679488655556",
+            "name": "Will"
+        },
+        {
+            "item": "Milkshake",
+            "id": 93560,
+            "timestamp": "20:31:29 2024-10-10",
+            "successfully_paid": "True",
+            "price": "6.2195680199823595",
+            "name": "Will"
+        },
+        {
+            "item": "Wine",
+            "id": 15768,
+            "timestamp": "20:31:33 2024-10-10",
+            "successfully_paid": "True",
+            "price": "8.298046430458463",
+            "name": "Spencer"
+        },
+        {
+            "item": "Cocktail",
+            "id": 79784,
+            "timestamp": "20:31:37 2024-10-10",
+            "successfully_paid": "True",
+            "price": "15.567599933280933",
+            "name": "Spencer"
+        }
+    ]
+}

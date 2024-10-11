@@ -1,170 +1,802 @@
 {
     "1": {
-        "item": "Coffee",
-        "order_id": "94895",
-        "timestamp": "02:15:49 2024-10-10",
+        "item": "Wine",
+        "order_id": "76677",
+        "timestamp": "20:32:04 2024-10-10",
         "successfully_paid": "True",
-        "price": "2.533649317070327",
+        "price": "14.452756470039006",
         "name": "Spencer"
     },
     "2": {
-        "item": "Lemonade",
-        "order_id": "16772",
-        "timestamp": "02:15:58 2024-10-10",
+        "item": "Milkshake",
+        "order_id": "62584",
+        "timestamp": "20:32:08 2024-10-10",
         "successfully_paid": "True",
-        "price": "4.27598233223859",
-        "name": "Spencer"
+        "price": "9.562053529465611",
+        "name": "Will"
     },
     "3": {
-        "item": "Soda",
-        "order_id": "32891",
-        "timestamp": "02:16:07 2024-10-10",
+        "item": "Coffee",
+        "order_id": "73284",
+        "timestamp": "20:32:12 2024-10-10",
         "successfully_paid": "True",
-        "price": "2.6247491170900545",
-        "name": "Will"
-    },
-    "4": {
-        "item": "Cocktail",
-        "order_id": "35354",
-        "timestamp": "02:16:16 2024-10-10",
-        "successfully_paid": "True",
-        "price": "9.124152582280928",
+        "price": "5.7212518742978045",
         "name": "Morgan"
     },
-    "5": {
-        "item": "Lemonade",
-        "order_id": "10158",
-        "timestamp": "02:16:25 2024-10-10",
+    "4": {
+        "item": "Soda",
+        "order_id": "57776",
+        "timestamp": "20:32:16 2024-10-10",
         "successfully_paid": "True",
-        "price": "4.105939715032186",
-        "name": "Will"
-    },
-    "6": {
-        "item": "Coffee",
-        "order_id": "91713",
-        "timestamp": "02:16:34 2024-10-10",
-        "successfully_paid": "True",
-        "price": "3.0622135497077494",
+        "price": "1.8032609370860264",
         "name": "Spencer"
     },
-    "7": {
+    "5": {
         "item": "Wine",
-        "order_id": "79240",
-        "timestamp": "02:16:43 2024-10-10",
+        "order_id": "95554",
+        "timestamp": "20:32:20 2024-10-10",
         "successfully_paid": "True",
-        "price": "8.446399958848602",
+        "price": "8.884039822377137",
+        "name": "Morgan"
+    },
+    "6": {
+        "item": "Lemonade",
+        "order_id": "32039",
+        "timestamp": "20:32:25 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.489618736996224",
+        "name": "Morgan"
+    },
+    "7": {
+        "item": "Milkshake",
+        "order_id": "54230",
+        "timestamp": "20:32:29 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.991387308398137",
         "name": "Morgan"
     },
     "8": {
-        "item": "Milkshake",
-        "order_id": "99193",
-        "timestamp": "02:16:52 2024-10-10",
+        "item": "Lemonade",
+        "order_id": "29757",
+        "timestamp": "20:32:33 2024-10-10",
         "successfully_paid": "True",
-        "price": "9.299904458846909",
-        "name": "Spencer"
+        "price": "4.4123507413059375",
+        "name": "Will"
     },
     "9": {
-        "item": "Wine",
-        "order_id": "69519",
-        "timestamp": "02:17:01 2024-10-10",
+        "item": "Milkshake",
+        "order_id": "17041",
+        "timestamp": "20:32:37 2024-10-10",
         "successfully_paid": "True",
-        "price": "14.857473025475382",
+        "price": "6.1217112134862655",
         "name": "Morgan"
     },
     "10": {
-        "item": "Lemonade",
-        "order_id": "60982",
-        "timestamp": "02:17:10 2024-10-10",
+        "item": "Soda",
+        "order_id": "62748",
+        "timestamp": "20:32:41 2024-10-10",
         "successfully_paid": "True",
-        "price": "2.849698106109715",
-        "name": "Spencer"
-    },
-    "11": {
-        "item": "Cocktail",
-        "order_id": "58478",
-        "timestamp": "02:17:19 2024-10-10",
-        "successfully_paid": "True",
-        "price": "9.767744281080693",
-        "name": "Morgan"
-    },
-    "12": {
-        "item": "Coffee",
-        "order_id": "41212",
-        "timestamp": "02:17:28 2024-10-10",
-        "successfully_paid": "True",
-        "price": "2.1275700853417696",
-        "name": "Spencer"
-    },
-    "13": {
-        "item": "Cocktail",
-        "order_id": "60466",
-        "timestamp": "02:17:37 2024-10-10",
-        "successfully_paid": "True",
-        "price": "13.532351760858734",
+        "price": "2.583600544880545",
         "name": "Will"
     },
-    "14": {
-        "item": "Lemonade",
-        "order_id": "36518",
-        "timestamp": "02:17:46 2024-10-10",
+    "11": {
+        "item": "Wine",
+        "order_id": "63353",
+        "timestamp": "20:32:45 2024-10-10",
         "successfully_paid": "True",
-        "price": "2.6594047905843015",
+        "price": "8.823622324514517",
+        "name": "Will"
+    },
+    "12": {
+        "item": "Beer",
+        "order_id": "95108",
+        "timestamp": "20:32:49 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.861667164058004",
+        "name": "Morgan"
+    },
+    "13": {
+        "item": "Smoothie",
+        "order_id": "30686",
+        "timestamp": "20:32:53 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.432691886576759",
+        "name": "Morgan"
+    },
+    "14": {
+        "item": "Smoothie",
+        "order_id": "54588",
+        "timestamp": "20:32:57 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.519924905609832",
         "name": "Spencer"
     },
     "15": {
-        "item": "Coffee",
-        "order_id": "66030",
-        "timestamp": "02:17:55 2024-10-10",
+        "item": "Wine",
+        "order_id": "94143",
+        "timestamp": "20:33:01 2024-10-10",
         "successfully_paid": "True",
-        "price": "2.754146164777395",
-        "name": "Spencer"
+        "price": "13.154229331683121",
+        "name": "Will"
     },
     "16": {
-        "item": "Juice",
-        "order_id": "10509",
-        "timestamp": "02:18:04 2024-10-10",
+        "item": "Milkshake",
+        "order_id": "44557",
+        "timestamp": "20:33:05 2024-10-10",
         "successfully_paid": "True",
-        "price": "5.51799823414247",
-        "name": "Spencer"
+        "price": "9.545885974835905",
+        "name": "Morgan"
     },
     "17": {
-        "item": "Soda",
-        "order_id": "90631",
-        "timestamp": "02:18:13 2024-10-10",
+        "item": "Juice",
+        "order_id": "59714",
+        "timestamp": "20:33:09 2024-10-10",
         "successfully_paid": "True",
-        "price": "1.091355327464693",
+        "price": "6.604593204623022",
         "name": "Spencer"
     },
     "18": {
-        "item": "Cocktail",
-        "order_id": "95903",
-        "timestamp": "02:18:22 2024-10-10",
+        "item": "Milkshake",
+        "order_id": "44915",
+        "timestamp": "20:33:13 2024-10-10",
         "successfully_paid": "True",
-        "price": "12.747524082703986",
-        "name": "Spencer"
+        "price": "9.699717197346182",
+        "name": "Will"
     },
     "19": {
-        "item": "Coffee",
-        "order_id": "21679",
-        "timestamp": "02:18:31 2024-10-10",
+        "item": "Milkshake",
+        "order_id": "32299",
+        "timestamp": "20:33:17 2024-10-10",
         "successfully_paid": "True",
-        "price": "5.448479450141565",
+        "price": "9.742985173776255",
         "name": "Will"
     },
     "20": {
-        "item": "Lemonade",
-        "order_id": "52637",
-        "timestamp": "02:18:40 2024-10-10",
+        "item": "Milkshake",
+        "order_id": "97627",
+        "timestamp": "20:33:21 2024-10-10",
         "successfully_paid": "True",
-        "price": "3.043186042459348",
-        "name": "Morgan"
+        "price": "6.488408107993358",
+        "name": "Will"
     },
     "21": {
-        "item": "Lemonade",
-        "order_id": "15098",
-        "timestamp": "02:18:49 2024-10-10",
+        "item": "Juice",
+        "order_id": "22533",
+        "timestamp": "20:33:25 2024-10-10",
         "successfully_paid": "True",
-        "price": "2.347253657384199",
+        "price": "5.1270704871102515",
         "name": "Spencer"
+    },
+    "22": {
+        "item": "Soda",
+        "order_id": "30657",
+        "timestamp": "20:33:29 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.9510451783284113",
+        "name": "Morgan"
+    },
+    "23": {
+        "item": "Milkshake",
+        "order_id": "99228",
+        "timestamp": "20:33:33 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.734299415088799",
+        "name": "Will"
+    },
+    "24": {
+        "item": "Beer",
+        "order_id": "98267",
+        "timestamp": "20:33:37 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.843852220565346",
+        "name": "Morgan"
+    },
+    "25": {
+        "item": "Coffee",
+        "order_id": "79693",
+        "timestamp": "20:33:41 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.9259122408930542",
+        "name": "Morgan"
+    },
+    "26": {
+        "item": "Cocktail",
+        "order_id": "73698",
+        "timestamp": "20:33:45 2024-10-10",
+        "successfully_paid": "True",
+        "price": "17.4393383577723",
+        "name": "Will"
+    },
+    "27": {
+        "item": "Tea",
+        "order_id": "28381",
+        "timestamp": "20:33:49 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.9378222274013224",
+        "name": "Will"
+    },
+    "28": {
+        "item": "Soda",
+        "order_id": "34159",
+        "timestamp": "20:33:53 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.2479929756309467",
+        "name": "Spencer"
+    },
+    "29": {
+        "item": "Smoothie",
+        "order_id": "25413",
+        "timestamp": "20:33:57 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.987302062784371",
+        "name": "Spencer"
+    },
+    "30": {
+        "item": "Milkshake",
+        "order_id": "92437",
+        "timestamp": "20:34:02 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.842206586185618",
+        "name": "Will"
+    },
+    "31": {
+        "item": "Milkshake",
+        "order_id": "52734",
+        "timestamp": "20:34:06 2024-10-10",
+        "successfully_paid": "True",
+        "price": "7.6159717832957625",
+        "name": "Morgan"
+    },
+    "32": {
+        "item": "Soda",
+        "order_id": "81478",
+        "timestamp": "20:34:10 2024-10-10",
+        "successfully_paid": "True",
+        "price": "1.987859743528158",
+        "name": "Morgan"
+    },
+    "33": {
+        "item": "Milkshake",
+        "order_id": "25435",
+        "timestamp": "20:34:14 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.420162194375866",
+        "name": "Spencer"
+    },
+    "34": {
+        "item": "Soda",
+        "order_id": "22696",
+        "timestamp": "20:34:18 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.7269853078976953",
+        "name": "Morgan"
+    },
+    "35": {
+        "item": "Juice",
+        "order_id": "59638",
+        "timestamp": "20:34:22 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.023138321171206",
+        "name": "Spencer"
+    },
+    "36": {
+        "item": "Soda",
+        "order_id": "49214",
+        "timestamp": "20:34:26 2024-10-10",
+        "successfully_paid": "True",
+        "price": "1.099675183610762",
+        "name": "Spencer"
+    },
+    "37": {
+        "item": "Milkshake",
+        "order_id": "75588",
+        "timestamp": "20:34:30 2024-10-10",
+        "successfully_paid": "True",
+        "price": "7.784779013647196",
+        "name": "Morgan"
+    },
+    "38": {
+        "item": "Cocktail",
+        "order_id": "42425",
+        "timestamp": "20:34:34 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.177293544956552",
+        "name": "Spencer"
+    },
+    "39": {
+        "item": "Milkshake",
+        "order_id": "11061",
+        "timestamp": "20:34:38 2024-10-10",
+        "successfully_paid": "True",
+        "price": "5.334422453001898",
+        "name": "Spencer"
+    },
+    "40": {
+        "item": "Cocktail",
+        "order_id": "41399",
+        "timestamp": "20:34:42 2024-10-10",
+        "successfully_paid": "True",
+        "price": "14.636627548414353",
+        "name": "Morgan"
+    },
+    "41": {
+        "item": "Tea",
+        "order_id": "90657",
+        "timestamp": "20:34:46 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.017806260845775",
+        "name": "Spencer"
+    },
+    "42": {
+        "item": "Cocktail",
+        "order_id": "35566",
+        "timestamp": "20:34:50 2024-10-10",
+        "successfully_paid": "True",
+        "price": "18.8476842891305",
+        "name": "Will"
+    },
+    "43": {
+        "item": "Wine",
+        "order_id": "81096",
+        "timestamp": "20:34:54 2024-10-10",
+        "successfully_paid": "True",
+        "price": "5.054952177487476",
+        "name": "Morgan"
+    },
+    "44": {
+        "item": "Coffee",
+        "order_id": "83485",
+        "timestamp": "20:34:58 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.255490075261666",
+        "name": "Spencer"
+    },
+    "45": {
+        "item": "Coffee",
+        "order_id": "12955",
+        "timestamp": "20:35:02 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.8211288416818476",
+        "name": "Morgan"
+    },
+    "46": {
+        "item": "Smoothie",
+        "order_id": "48103",
+        "timestamp": "20:35:06 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.771653274585152",
+        "name": "Will"
+    },
+    "47": {
+        "item": "Juice",
+        "order_id": "83174",
+        "timestamp": "20:35:10 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.061332963511071",
+        "name": "Morgan"
+    },
+    "48": {
+        "item": "Beer",
+        "order_id": "68766",
+        "timestamp": "20:35:14 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.992726187691967",
+        "name": "Will"
+    },
+    "49": {
+        "item": "Soda",
+        "order_id": "29074",
+        "timestamp": "20:35:18 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.987864398057284",
+        "name": "Morgan"
+    },
+    "50": {
+        "item": "Coffee",
+        "order_id": "54107",
+        "timestamp": "20:35:22 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.3074188768771426",
+        "name": "Will"
+    },
+    "51": {
+        "item": "Tea",
+        "order_id": "20681",
+        "timestamp": "20:35:26 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.497910748779302",
+        "name": "Will"
+    },
+    "52": {
+        "item": "Beer",
+        "order_id": "52704",
+        "timestamp": "20:35:30 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.593967091617609",
+        "name": "Will"
+    },
+    "53": {
+        "item": "Coffee",
+        "order_id": "94786",
+        "timestamp": "20:35:34 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.742052157317354",
+        "name": "Spencer"
+    },
+    "54": {
+        "item": "Milkshake",
+        "order_id": "33832",
+        "timestamp": "20:35:38 2024-10-10",
+        "successfully_paid": "True",
+        "price": "7.908709476228454",
+        "name": "Will"
+    },
+    "55": {
+        "item": "Tea",
+        "order_id": "90706",
+        "timestamp": "20:35:43 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.8779944420946966",
+        "name": "Will"
+    },
+    "56": {
+        "item": "Lemonade",
+        "order_id": "54264",
+        "timestamp": "20:35:47 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.2516228494594563",
+        "name": "Will"
+    },
+    "57": {
+        "item": "Wine",
+        "order_id": "38552",
+        "timestamp": "20:35:51 2024-10-10",
+        "successfully_paid": "True",
+        "price": "14.917158673610626",
+        "name": "Will"
+    },
+    "58": {
+        "item": "Coffee",
+        "order_id": "20316",
+        "timestamp": "20:35:55 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.154950836943762",
+        "name": "Spencer"
+    },
+    "59": {
+        "item": "Juice",
+        "order_id": "10973",
+        "timestamp": "20:35:59 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.395666945284344",
+        "name": "Spencer"
+    },
+    "60": {
+        "item": "Juice",
+        "order_id": "70271",
+        "timestamp": "20:36:03 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.111988267908204",
+        "name": "Spencer"
+    },
+    "61": {
+        "item": "Wine",
+        "order_id": "98457",
+        "timestamp": "20:36:07 2024-10-10",
+        "successfully_paid": "True",
+        "price": "10.625017987376776",
+        "name": "Morgan"
+    },
+    "62": {
+        "item": "Tea",
+        "order_id": "85248",
+        "timestamp": "20:36:11 2024-10-10",
+        "successfully_paid": "True",
+        "price": "1.9240635834630868",
+        "name": "Morgan"
+    },
+    "63": {
+        "item": "Cocktail",
+        "order_id": "27974",
+        "timestamp": "20:36:15 2024-10-10",
+        "successfully_paid": "True",
+        "price": "15.930613846165109",
+        "name": "Morgan"
+    },
+    "64": {
+        "item": "Milkshake",
+        "order_id": "39810",
+        "timestamp": "20:36:19 2024-10-10",
+        "successfully_paid": "True",
+        "price": "7.01289493098592",
+        "name": "Will"
+    },
+    "65": {
+        "item": "Beer",
+        "order_id": "10381",
+        "timestamp": "20:36:23 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.043421591928394",
+        "name": "Will"
+    },
+    "66": {
+        "item": "Juice",
+        "order_id": "36139",
+        "timestamp": "20:36:27 2024-10-10",
+        "successfully_paid": "True",
+        "price": "5.142245652782289",
+        "name": "Spencer"
+    },
+    "67": {
+        "item": "Juice",
+        "order_id": "57149",
+        "timestamp": "20:36:31 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.143295368938554",
+        "name": "Morgan"
+    },
+    "68": {
+        "item": "Milkshake",
+        "order_id": "40385",
+        "timestamp": "20:36:35 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.324873556719702",
+        "name": "Will"
+    },
+    "69": {
+        "item": "Beer",
+        "order_id": "17349",
+        "timestamp": "20:36:39 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.6850943079343192",
+        "name": "Morgan"
+    },
+    "70": {
+        "item": "Wine",
+        "order_id": "56505",
+        "timestamp": "20:36:43 2024-10-10",
+        "successfully_paid": "True",
+        "price": "13.102381353988049",
+        "name": "Spencer"
+    },
+    "71": {
+        "item": "Beer",
+        "order_id": "74838",
+        "timestamp": "20:36:47 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.9719882705305443",
+        "name": "Spencer"
+    },
+    "72": {
+        "item": "Coffee",
+        "order_id": "61214",
+        "timestamp": "20:36:51 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.8394047090222356",
+        "name": "Will"
+    },
+    "73": {
+        "item": "Beer",
+        "order_id": "94920",
+        "timestamp": "20:36:55 2024-10-10",
+        "successfully_paid": "True",
+        "price": "5.138446106346093",
+        "name": "Morgan"
+    },
+    "74": {
+        "item": "Smoothie",
+        "order_id": "73770",
+        "timestamp": "20:36:59 2024-10-10",
+        "successfully_paid": "True",
+        "price": "5.210326809764611",
+        "name": "Spencer"
+    },
+    "75": {
+        "item": "Coffee",
+        "order_id": "58993",
+        "timestamp": "20:37:03 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.598108821850667",
+        "name": "Morgan"
+    },
+    "76": {
+        "item": "Lemonade",
+        "order_id": "97635",
+        "timestamp": "20:37:07 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.7790329791677624",
+        "name": "Morgan"
+    },
+    "77": {
+        "item": "Coffee",
+        "order_id": "38839",
+        "timestamp": "20:37:11 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.0140493382391202",
+        "name": "Will"
+    },
+    "78": {
+        "item": "Juice",
+        "order_id": "72541",
+        "timestamp": "20:37:15 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.917621412545289",
+        "name": "Morgan"
+    },
+    "79": {
+        "item": "Cocktail",
+        "order_id": "92446",
+        "timestamp": "20:37:19 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.568937273220431",
+        "name": "Spencer"
+    },
+    "80": {
+        "item": "Lemonade",
+        "order_id": "79086",
+        "timestamp": "20:37:24 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.040514964366851",
+        "name": "Spencer"
+    },
+    "81": {
+        "item": "Coffee",
+        "order_id": "41813",
+        "timestamp": "20:37:28 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.953306522403415",
+        "name": "Will"
+    },
+    "82": {
+        "item": "Cocktail",
+        "order_id": "88628",
+        "timestamp": "20:37:32 2024-10-10",
+        "successfully_paid": "True",
+        "price": "11.42475991190161",
+        "name": "Spencer"
+    },
+    "83": {
+        "item": "Cocktail",
+        "order_id": "58040",
+        "timestamp": "20:37:36 2024-10-10",
+        "successfully_paid": "True",
+        "price": "9.737992725031303",
+        "name": "Spencer"
+    },
+    "84": {
+        "item": "Wine",
+        "order_id": "16564",
+        "timestamp": "20:37:40 2024-10-10",
+        "successfully_paid": "True",
+        "price": "12.71823328276786",
+        "name": "Morgan"
+    },
+    "85": {
+        "item": "Cocktail",
+        "order_id": "27631",
+        "timestamp": "20:37:44 2024-10-10",
+        "successfully_paid": "True",
+        "price": "19.43220884439261",
+        "name": "Spencer"
+    },
+    "86": {
+        "item": "Cocktail",
+        "order_id": "56528",
+        "timestamp": "20:37:48 2024-10-10",
+        "successfully_paid": "True",
+        "price": "8.700794601693616",
+        "name": "Will"
+    },
+    "87": {
+        "item": "Tea",
+        "order_id": "82006",
+        "timestamp": "20:37:52 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.061988374911158",
+        "name": "Spencer"
+    },
+    "88": {
+        "item": "Soda",
+        "order_id": "76050",
+        "timestamp": "20:37:56 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.809727755875215",
+        "name": "Will"
+    },
+    "89": {
+        "item": "Soda",
+        "order_id": "45082",
+        "timestamp": "20:38:00 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.858574476268153",
+        "name": "Morgan"
+    },
+    "90": {
+        "item": "Beer",
+        "order_id": "79444",
+        "timestamp": "20:38:04 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.582361480928002",
+        "name": "Spencer"
+    },
+    "91": {
+        "item": "Smoothie",
+        "order_id": "54030",
+        "timestamp": "20:38:08 2024-10-10",
+        "successfully_paid": "True",
+        "price": "5.437746817263817",
+        "name": "Morgan"
+    },
+    "92": {
+        "item": "Coffee",
+        "order_id": "95815",
+        "timestamp": "20:38:12 2024-10-10",
+        "successfully_paid": "True",
+        "price": "4.745583229441758",
+        "name": "Spencer"
+    },
+    "93": {
+        "item": "Lemonade",
+        "order_id": "79424",
+        "timestamp": "20:38:16 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.551095666715267",
+        "name": "Will"
+    },
+    "94": {
+        "item": "Wine",
+        "order_id": "59539",
+        "timestamp": "20:38:20 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.4314523446590774",
+        "name": "Spencer"
+    },
+    "95": {
+        "item": "Soda",
+        "order_id": "65992",
+        "timestamp": "20:38:24 2024-10-10",
+        "successfully_paid": "True",
+        "price": "3.29415155267346",
+        "name": "Will"
+    },
+    "96": {
+        "item": "Beer",
+        "order_id": "70754",
+        "timestamp": "20:38:28 2024-10-10",
+        "successfully_paid": "True",
+        "price": "6.703434773057449",
+        "name": "Morgan"
+    },
+    "97": {
+        "item": "Soda",
+        "order_id": "85552",
+        "timestamp": "20:38:32 2024-10-10",
+        "successfully_paid": "True",
+        "price": "2.005186609884824",
+        "name": "Morgan"
+    },
+    "98": {
+        "item": "Cocktail",
+        "order_id": "83357",
+        "timestamp": "20:38:36 2024-10-10",
+        "successfully_paid": "True",
+        "price": "16.964430979416164",
+        "name": "Morgan"
+    },
+    "99": {
+        "item": "Soda",
+        "order_id": "97665",
+        "timestamp": "20:38:40 2024-10-10",
+        "successfully_paid": "True",
+        "price": "1.798185157990627",
+        "name": "Will"
+    },
+    "100": {
+        "item": "Smoothie",
+        "order_id": "48879",
+        "timestamp": "20:38:44 2024-10-10",
+        "successfully_paid": "True",
+        "price": "7.883271817656885",
+        "name": "Will"
     }
 }

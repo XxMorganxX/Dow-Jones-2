@@ -18,7 +18,7 @@ from lib.utils import read_drink_options, write_json_safely
 def generate_test_orders_func(quant_orders, median_time, deviation_time):
 
         print(f"Generating {quant_orders} test orders")
-        print(f"start time: {dt.strftime("%H:%M:%S %Y-%m-%d")}")
+        print(f"Start Time: {median_time.strftime("%H:%M:%S %Y-%m-%d")}")
 
 
 
@@ -84,6 +84,10 @@ def generate_test_orders_func(quant_orders, median_time, deviation_time):
 
 
 
+"""
+
 dt = datetime.now()
-generate_test_orders_func(21, datetime.now(), 180)
+generate_test_orders_func(21, datetime.now(), 120)
+
+"""
 
